@@ -119,7 +119,7 @@ body {
 }
 
 @media screen and (max-width: 1240px) {
-    .category-section{
+    .category-section {
         justify-content: start;
     }
 }
@@ -163,7 +163,9 @@ body {
 }
 
 @media screen and (max-width: 400px) {
-    .heading h5, .heading span{
+
+    .heading h5,
+    .heading span {
         font-size: small;
     }
 }
@@ -218,6 +220,7 @@ body {
 .card img {
     max-height: 100%;
 }
+
 .product-item .product-img img {
     transition: .3s;
 }
@@ -229,4 +232,10 @@ body {
 .section3 .product-item {
     display: block !important;
     width: 300px !important;
+}
+
+.card-img {
+    object-fit: contain;
+    background: rgba(245, 245, 245, 0.5);
+    height: 200px;
 }
