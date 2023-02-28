@@ -163,6 +163,7 @@ body {
 }
 
 @media screen and (max-width: 400px) {
+
     .heading h5,
     .heading span {
         font-size: small;
@@ -239,6 +240,11 @@ body {
     height: 200px;
 }
 
-.card-header{
-    height:200px !important;
+.card-header {
+    height: 200px;
+    position: relative;
+    overflow: hidden;
+    background: transparent;
+    display: flex;
+    align-items: center;
 }
