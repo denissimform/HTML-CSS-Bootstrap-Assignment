@@ -1,3 +1,3 @@
 # Hi, Visitor
 
-### You can see this page on browser: <a href="https://denissimform.github.io/Flipkart/" target="_blank">Click here</a>
+### You can see this page on browser: <a href="https://github.com/denissimform/HTML-CSS-Bootstrap-Assignment" target="_blank">Click here</a>
